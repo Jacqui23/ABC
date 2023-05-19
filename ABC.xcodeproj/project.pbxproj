@@ -13,6 +13,7 @@
 		BBAD05502A175CD600E405FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBAD054E2A175CD600E405FF /* Main.storyboard */; };
 		BBAD05522A175CD600E405FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBAD05512A175CD600E405FF /* Assets.xcassets */; };
 		BBAD05552A175CD600E405FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBAD05532A175CD600E405FF /* LaunchScreen.storyboard */; };
+		BBAD055D2A17687300E405FF /* Second ViewControllwer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBAD055C2A17687300E405FF /* Second ViewControllwer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BBAD05512A175CD600E405FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBAD05542A175CD600E405FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BBAD05562A175CD600E405FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBAD055C2A17687300E405FF /* Second ViewControllwer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Second ViewControllwer.swift"; path = "../../Second ViewControllwer.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BBAD054A2A175CD600E405FF /* SceneDelegate.swift */,
 				BBAD054C2A175CD600E405FF /* ViewController.swift */,
 				BBAD054E2A175CD600E405FF /* Main.storyboard */,
+				BBAD055C2A17687300E405FF /* Second ViewControllwer.swift */,
 				BBAD05512A175CD600E405FF /* Assets.xcassets */,
 				BBAD05532A175CD600E405FF /* LaunchScreen.storyboard */,
 				BBAD05562A175CD600E405FF /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BBAD054D2A175CD600E405FF /* ViewController.swift in Sources */,
+				BBAD055D2A17687300E405FF /* Second ViewControllwer.swift in Sources */,
 				BBAD05492A175CD600E405FF /* AppDelegate.swift in Sources */,
 				BBAD054B2A175CD600E405FF /* SceneDelegate.swift in Sources */,
 			);
